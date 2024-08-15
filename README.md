@@ -1,6 +1,6 @@
 # Data Science EXAM
 
-Ushbu repository O'znetDev tomonidan yaratilgan data science uy vazifalarini o'z ichiga oladi. Bu yerda turli data science muammolarini hal qilish bo'yicha mashqlar, kodlar va natijalar jamlangan.
+Ushbu repository CoderGoC tomonidan yaratilgan data science uy vazifalarini o'z ichiga oladi. Bu yerda turli data science muammolarini hal qilish bo'yicha mashqlar, kodlar va natijalar jamlangan.
 
 # Yoshni Bashorat Qilish Uchun Huber Regressor Modeli
 
